@@ -43,9 +43,10 @@ Right now we would expect that Ahmed doesn't have permissions to do anything wit
 
 So this is PIM, we've assigned eliglibility for permissions, but permissions aren't always active. To activate those permissions, Ahmed has to go My roles section that got the different types of privilegs we might be activating, and we've got that Application Administrator role that Ahmed is eligible for.
 
-<img width="1919" height="565" alt="image" src="https://github.com/user-attachments/assets/a5ee45b4-8532-4cfb-b23f-35fecf72b011" />
+Now that role is submitted for approval. And what we need to do is log into our approvers account and complete that approval
 
-<img width="1919" height="610" alt="image" src="https://github.com/user-attachments/assets/997bf583-5492-4d96-9e60-6f7ca2995504" />
+<img width="1919" height="521" alt="activsate" src="https://github.com/user-attachments/assets/44291f0d-491c-4f41-8811-7883af93d391" />
+
 
 
 
