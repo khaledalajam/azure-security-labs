@@ -47,6 +47,28 @@ Now that role is submitted for approval. And what we need to do is log into our 
 
 <img width="1919" height="521" alt="activsate" src="https://github.com/user-attachments/assets/44291f0d-491c-4f41-8811-7883af93d391" />
 
+You'll see that I'm logged in as Noura Khalid, and we've got Ahmed Abdullah's request for activation of that application administrator role
+<img width="1919" height="736" alt="image" src="https://github.com/user-attachments/assets/66a8a55e-5494-4905-900c-22406b835a48" />
+
+Ahmed Abdullah's activation is complete 
+<img width="1919" height="1035" alt="image" src="https://github.com/user-attachments/assets/593f7d72-aef7-4ef3-a92b-38eca0c2434b" />
+<img width="1917" height="745" alt="image" src="https://github.com/user-attachments/assets/36b19282-962c-499d-aa94-5ba59628c9de" />
+
+If we go back to Ahmed's page, we can expect to see is that Ahmed has that activation complete in the active assignment section
+
+<img width="1919" height="502" alt="image" src="https://github.com/user-attachments/assets/a46def24-aa1a-4db3-90be-0d8f6434adbf" />
+
+Now this time we can expect Ahmed can go to something like secrets and certifcates and the permissions has been activated. So we can create a new secret for example
+
+<img width="1917" height="836" alt="image" src="https://github.com/user-attachments/assets/d1deab75-a22c-4d63-9467-2f4883a558c8" />
+
+You can see now we have those permissions active for Ahmed's account. And once complete, you can either wait for that to automatically expire, or Ahmed could go and just deactivate that assignment once complete
+
+<img width="1918" height="1029" alt="image" src="https://github.com/user-attachments/assets/a261e642-151d-49f6-bf3f-5fcbf37bf4e3" />
+
+
+
+
 
 
 
