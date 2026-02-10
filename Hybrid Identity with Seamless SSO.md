@@ -1,3 +1,6 @@
+<img width="2107" height="1430" alt="Hybrid Identity   SSO" src="https://github.com/user-attachments/assets/012aceef-2f39-4b25-9438-7d2d1c52664a" />
+
+
 What we're doing in this demo is setting up hybrid identity between our on-premises Active Directory domain and our Entra ID tenant. Additionally we are going to configure seamless single sign on (SSO) to allow for our users to easily access Entra resources using their AD identity, with less prompts for logging in. 
 
 For that to work I of course am going to have a pretend Active Directory Domain services forest, which I do have that already setup.
