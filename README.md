@@ -6,7 +6,7 @@ Each demo begins with an overview diagram and then walks through a core security
 
 [Hybrid Identity & SSO](<Hybrid Identity with Seamless SSO.md>)
 
-We're etting up hybrid identity between on-premises AD and Entra ID, with Seamless SSO for simplified user access.
+We're setting up hybrid identity between on-premises AD and Entra ID, with Seamless SSO for simplified user access.
 
 [Privileged Access Management](<PAM Using Entra PIM.md>)
 
